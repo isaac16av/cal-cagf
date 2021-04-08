@@ -50,7 +50,7 @@ http://www.sitio.com/app/cagf
 ```
 
 ## 3. Autores 👨‍💻
-* **Isaac Alfaro** | [isaac16av](https://github.com/isaac16av)
+* **Isaac Alfaro** | [isacdav](https://github.com/isacdav)
 * **Fabián Aguilar** | [Faac97](https://github.com/faac97)
 
 ## 4. Desarrollado con 🛠️
